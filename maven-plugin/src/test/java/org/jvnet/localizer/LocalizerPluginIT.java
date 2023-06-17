@@ -13,6 +13,6 @@ public class LocalizerPluginIT {
     @MavenTest
     void smokeTest(MavenExecutionResult result) {
         // the project itself has a test that will fail if the Messages are not generated
-        assertTrue(result.isSuccesful());
+        assertTrue(result.isSuccessful());
     }
 }
