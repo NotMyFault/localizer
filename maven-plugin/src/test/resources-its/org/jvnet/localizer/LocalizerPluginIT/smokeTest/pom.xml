@@ -35,7 +35,7 @@
             <configuration combine.self="override">
               <rules>
                 <requireMavenVersion>
-                  <version>3.3.1</version>
+                  <version>3.9.2</version>
                 </requireMavenVersion>
               </rules>
             </configuration>
@@ -55,7 +55,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.13.1</version>
+      <version>4.13.2</version>
     </dependency>
   </dependencies>
 </project>
